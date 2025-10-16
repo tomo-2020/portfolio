@@ -10,6 +10,7 @@
 ### ツール
 * VS code
 * Git
+* WordPress
 * Figma
 * Illustrator
 * Photoshop
