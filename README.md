@@ -1,19 +1,22 @@
 # portfolio
 
-## 使用可能言語
+## スキル
+
+### 言語
 * HTML
 * CSS
 * Javascript
 
-## 使用可能ツール
+### ツール
 * VS code
 * Git
 * Figma
 * Illustrator
 * Photoshop
+* Asana
 
 ## 作品
-2021年10月 ~ 2025年6月の期間でページ全体のコーディングを担当
+2021年10月 ~ 2025年6月にページ全体のコーディングを担当
 
 ### ECサイト 特集ページ
 * 冬アウター特集 : https://fril.jp/ts/pickup/seasonal/winter_outerwear/
